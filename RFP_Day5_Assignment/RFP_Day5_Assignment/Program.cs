@@ -6,3 +6,4 @@ Leapyear.Yearmethod();
 Powof2.method();
 HarmonicSeries.harmonicMethod();
 Factors.primeFactorsMethod();
+QuotientRemainder.quotientRemainderMethod();
