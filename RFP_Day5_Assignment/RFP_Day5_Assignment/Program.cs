@@ -2,3 +2,4 @@
 using RFP_Day5_Assignment;
 Console.WriteLine("Hello, World!");
 FlipCoin.flipCoinMethod();
+Leapyear.Yearmethod();
