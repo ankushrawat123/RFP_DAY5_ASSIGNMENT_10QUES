@@ -9,3 +9,4 @@ Factors.primeFactorsMethod();
 QuotientRemainder.quotientRemainderMethod();
 SwapNumber.swapMethod();
 EvenOdd.evenOddMethod();
+AlphabetVowelConsonant.vowelConsonantMethod();
