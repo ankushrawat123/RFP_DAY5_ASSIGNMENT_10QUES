@@ -5,3 +5,4 @@ FlipCoin.flipCoinMethod();
 Leapyear.Yearmethod();
 Powof2.method();
 HarmonicSeries.harmonicMethod();
+Factors.primeFactorsMethod();

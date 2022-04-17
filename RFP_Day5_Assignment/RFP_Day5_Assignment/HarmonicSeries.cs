@@ -20,7 +20,7 @@ namespace RFP_Day5_Assignment
                 for (int i = 1; i <= n; i++)
                 {
                     Console.Write("1/{0} + ", i);
-                }
+                }        
             }
             else
             {
