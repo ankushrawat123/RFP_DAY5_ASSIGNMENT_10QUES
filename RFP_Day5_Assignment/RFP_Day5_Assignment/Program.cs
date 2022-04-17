@@ -8,3 +8,4 @@ HarmonicSeries.harmonicMethod();
 Factors.primeFactorsMethod();
 QuotientRemainder.quotientRemainderMethod();
 SwapNumber.swapMethod();
+EvenOdd.evenOddMethod();
