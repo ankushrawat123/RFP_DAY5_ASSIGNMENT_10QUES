@@ -10,3 +10,4 @@ QuotientRemainder.quotientRemainderMethod();
 SwapNumber.swapMethod();
 EvenOdd.evenOddMethod();
 AlphabetVowelConsonant.vowelConsonantMethod();
+LargestThreeNumber.bubbleSortMethod();
